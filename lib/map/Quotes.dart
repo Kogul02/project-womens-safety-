@@ -1,0 +1,11 @@
+List Quotes= ["A woman with a voice is strong: A woman with a voice is, by definition, a strong woman",
+"Feminism is for everyone: Feminism is for everybody",
+'Love yourself first: Love yourself first and everything else falls into line',
+"Don't mistake politeness for lack of strength: Don't mistake politeness for lack of strength",
+"Girls are capable: Girls are capable of doing everything men are capable of doing",
+"Willpower is important: Technique and ability alone do not get you to the top; it is the willpower that is most important",
+"A strong woman values all her gifts: A strong woman understands that the gifts such as logic, decisiveness, and strength are just as feminine as intuition and emotional connection. She values and uses all of her gifts",
+"Make the world fit women: Don't think about making women fit the world — think about making the world fit women",
+"The strongest actions for a woman: The strongest actions for a woman is to love herself, be herself, and shine amongst those who never believed she could",
+"Justice is about making sure: Justice is about making sure that being polite is not the same thing as being quiet. In fact, often times, the most righteous thing you can do is shake the table",
+];
